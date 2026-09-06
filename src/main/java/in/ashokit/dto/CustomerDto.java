@@ -17,6 +17,6 @@ public class CustomerDto {
     private String phoneNo;
 
     private int number;
-    private String name;
+    private String rollNo;
 
 }
