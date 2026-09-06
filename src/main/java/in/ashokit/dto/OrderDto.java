@@ -19,4 +19,7 @@ public class OrderDto {
     private LocalDate dateCreated;
     private LocalDate lastUpdated;
     private String customerEmail;
+
+    private int number;
+    private String name;
 }
