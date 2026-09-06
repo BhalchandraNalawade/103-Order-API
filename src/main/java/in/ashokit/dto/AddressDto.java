@@ -13,4 +13,7 @@ public class AddressDto {
     private String zipCode;
     private String addrType;
 
+    private int number;
+    private String name;
+
 }
